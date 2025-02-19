@@ -75,10 +75,6 @@ Key observations:
 ## License
 This project is licensed under the **MIT License**. Feel free to use and adapt the code with proper attribution.
 
-## Author
-- Jiarong
-- Yuzhen
-
 ## References
 - Buehler, Hans, et al. "Deep hedging." Quantitative Finance 19.8 (2019): 1271-1291.
 
