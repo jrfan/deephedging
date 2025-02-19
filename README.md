@@ -71,16 +71,14 @@ Key observations:
 
 ## File Structure
 - `deep_hedging_experiments.ipynb`: Main Jupyter Notebook
-- `requirements.txt`: Package dependencies (optional)
 
 ## License
 This project is licensed under the **MIT License**. Feel free to use and adapt the code with proper attribution.
 
 ## Author
-- [Your Name]
-- [Your Contact Information / GitHub Profile]
+- Jiarong
+- Yuzhen
 
 ## References
 - Buehler, Hans, et al. "Deep hedging." Quantitative Finance 19.8 (2019): 1271-1291.
-- https://arxiv.org/abs/1802.03042
 
