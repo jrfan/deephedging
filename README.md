@@ -1,5 +1,6 @@
 # Deep Hedging with Neural Networks under Black-Scholes and Heston Models
 
+
 ## Overview
 This Jupyter notebook implements the concept of **Deep Hedging** as proposed in the paper:
 
